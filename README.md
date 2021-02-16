@@ -1,3 +1,7 @@
+////////////////////
+Starting a new front-end mentor project to practice HTML, CSS and JavaScript
+
+
 # Frontend Mentor - Rock, Paper, Scissors
 
 ![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
